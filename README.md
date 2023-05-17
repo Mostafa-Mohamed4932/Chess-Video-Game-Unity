@@ -37,11 +37,11 @@ This is a 3D/2D Chess video game developed using Unity for PC (Windows). It brin
 
 ## Installation
 
-To play the Chess Unity Game, simply download the executable file from the releases section of this repository. Double-click the downloaded file to start the game.
+To play the Chess Unity Game, simply download the Zip file called "Build", then run the Application called Geometric Chess
 
 ## Feedback and Contributions
 
-Feedback, bug reports, and contributions are always welcome! If you encounter any issues or have suggestions to improve the game, please feel free to open an issueor submit a pull request.
+Feedback, bug reports, and contributions are always welcome! If you encounter any issues or have suggestions to improve the game, please feel free to open an issue or submit a pull request.
 
 ## License
 
